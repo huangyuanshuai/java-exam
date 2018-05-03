@@ -17,8 +17,8 @@ Java实现的包含题库编辑、抽题组卷、在线考试等模块的Web教�
 - Materialize v0.97.6 (CSS)
 
 数据库设计：
-- （MySQL导出)
+- (MySQL导出)
 ![image](https://raw.githubusercontent.com/mikemelon/java-exam/master/screenshots/db_design1.bmp)
 
-- (简版）
+- (简版)
 ![image](https://raw.githubusercontent.com/mikemelon/java-exam/master/screenshots/db_design2.png)
