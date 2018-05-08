@@ -45,6 +45,7 @@ body {
 <body>
     <%@ include file="include/header.jsp" %>
     
+    
 	<div id="main">
 		<div class="container" style="height: 350px;">
 			<div class="divider"  style="height:40px;background:#fff"></div>
